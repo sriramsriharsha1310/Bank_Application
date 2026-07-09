@@ -26,7 +26,7 @@ accounts = st.session_state.accounts
 # Title
 # ==========================================
 
-st.title(st.title("Sri Harsha :material/favorite: Heart: Smart Banking Management System")
+st.title(st.title("Sri Harsha :material/favorite: Heart: Smart Banking Management System"))
 
 
 st.write(
