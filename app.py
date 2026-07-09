@@ -26,7 +26,7 @@ accounts = st.session_state.accounts
 # Title
 # ==========================================
 
-st.title("Sri Harsha:Heart: Smart Banking Management System")
+st.title("Sri Harsha :red[Heart]: Smart Banking Management System")
 
 st.write(
     "Manage customer accounts using a simple Streamlit application."
